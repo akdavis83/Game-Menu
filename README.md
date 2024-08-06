@@ -1,4 +1,4 @@
-demo.minecraftlostisland
+# Game Menu
 ========================
 
-demo of a minecraft lost on a island
+Link to every game site
